@@ -1,0 +1,6 @@
+1|Admin User|admin@admin.com|admin123|admin
+2|John Doe|john@example.com|password123|user
+5|Dananjana Bandara|dananjanabandara@gmail.com|123|user
+6|sandy perera|sandy30@admin.com|456|admin
+7|sandy perera|sandy30@gmail.com|789|user
+8|d b|sandy3045@admin.com|123|admin

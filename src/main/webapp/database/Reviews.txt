@@ -1,0 +1,2 @@
+1|2|3|1|5|Great bike, smooth ride and very comfortable!|2023-05-02 10:30:00
+2|2|5|2|4|The electric bike was fun to ride, but battery life could be better.|2023-05-07 14:45:00

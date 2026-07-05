@@ -1,0 +1,7 @@
+2|New App Launch|Promoting our new mobile app|2025-04-15|2025-05-15|TechNova|3000.00|Instagram|Ended
+3|Flash Deal|Limited time offer on electronics|2025-05-05|2025-05-10|ElectroMax|2000.00|Google|Active
+4|Mother's Day Campaign|Gift ideas and offers|2025-05-01|2025-05-14|GiftWorld|1800.00|Facebook|Paused
+5|Brand Awareness|Increase online presence|2025-03-01|2025-06-01|FreshFoods|4000.00|YouTube|Active
+6|Clearance Sale|End of season clearance|2025-05-10|2025-05-20|StyleMart|1200.00|Instagram|Active
+7|Event Promotion|Live concert promo campaign|2025-05-07|2025-05-09|LiveBuzz|1000.00|Twitter|Active
+8|Holiday Teasers|Upcoming holiday product teasers|2025-05-20|2025-06-10|SeasonalVibe|2500.00|Google|Scheduled
